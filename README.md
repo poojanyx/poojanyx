@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Pooja Singh.</h2>
+
+<h3 align="center">
+  <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+</h3>
+
+- 🔭 I’m currently working on **A Platform for Product Discovery via Tv Channel & Mobile App**
+- 🌱 I’m currently learning **Architecture of this platform**
+- 💬 Ask me about **Go, Git and Bzinga**
+
+
 
 <!--
 **poojanyx/poojanyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
